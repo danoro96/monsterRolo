@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mosterRolo/static/css/main.b54a57f0.chunk.css",
+    "main.js": "/mosterRolo/static/js/main.97567e70.chunk.js",
+    "main.js.map": "/mosterRolo/static/js/main.97567e70.chunk.js.map",
+    "runtime-main.js": "/mosterRolo/static/js/runtime-main.258cfc3c.js",
+    "runtime-main.js.map": "/mosterRolo/static/js/runtime-main.258cfc3c.js.map",
+    "static/js/2.6931aef1.chunk.js": "/mosterRolo/static/js/2.6931aef1.chunk.js",
+    "static/js/2.6931aef1.chunk.js.map": "/mosterRolo/static/js/2.6931aef1.chunk.js.map",
+    "index.html": "/mosterRolo/index.html",
+    "precache-manifest.c11412298977372facf958ddadd9a372.js": "/mosterRolo/precache-manifest.c11412298977372facf958ddadd9a372.js",
+    "service-worker.js": "/mosterRolo/service-worker.js",
+    "static/css/main.b54a57f0.chunk.css.map": "/mosterRolo/static/css/main.b54a57f0.chunk.css.map",
+    "static/js/2.6931aef1.chunk.js.LICENSE.txt": "/mosterRolo/static/js/2.6931aef1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.258cfc3c.js",
+    "static/js/2.6931aef1.chunk.js",
+    "static/css/main.b54a57f0.chunk.css",
+    "static/js/main.97567e70.chunk.js"
+  ]
+}
